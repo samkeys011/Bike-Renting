@@ -1,0 +1,2 @@
+# Bike-Renting
+The objective of this Case is to Predication of bike rental count on daily based on the environmental and seasonal settings. We are provided with a public dataset that contains the counts of Bikes that were rented per day along with the climatic, seasonal and other usage patterns. We are expected to develop a regression algorithm to predict the number of Bikes that can be rented based on this pattern.
